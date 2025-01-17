@@ -21,5 +21,8 @@ This plugin adds custom functionality to WooCommerce to allow users to add and m
 - WordPress 5.0 or higher
 - WooCommerce 3.0 or higher
 
-### Plugin Structure
+### Usage
+
+1. **Add Product**: Go to your WooCommerce account page and click on the **Add Product** tab to add a new product. Fill out the form, including the name, price, quantity, description, and image. 
+2. **My Products**: On the **My Products** page, you can see a list of the products you've added. You can edit or delete them, and view details by clicking on the product name.
 
